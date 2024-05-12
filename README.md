@@ -2,6 +2,19 @@
 # AIM:
 To write a C# program to pass values through constructors(default and parameterized) and also overload equal operators by checking whether objects are equal using operator overloading. 
 # ALGORITHM:
+## Step1:
+Create a class named program.
+## Step 2:
+Create two constructors with different arguments to implement operator overloading
+## Step 3:
+Create boolean operators to check equals and not equal condition and to implement operator overloading.
+## Step 4:
+Create a Main function
+## Step 5:
+Create two objects. One without arguments & the other with arguments
+## Step 6:
+Check whether the objects are equal or not using if-else condition
+
 # PROGRAM:
 ```
 using System;
@@ -43,4 +56,7 @@ namespace OperatorOverloading
 }
 ```
 # OUTPUT:
+![image](https://github.com/Kousalya22008930/19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading/assets/119389108/c7086dd3-7268-44f3-9fb1-037a969005a4)
+
 # RESULT:
+Thus, a C# program to find the volume of a box using operator overloading is implemented successfully.
