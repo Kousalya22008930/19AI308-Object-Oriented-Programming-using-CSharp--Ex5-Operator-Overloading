@@ -56,7 +56,7 @@ namespace OperatorOverloading
 }
 ```
 # OUTPUT:
-![image](https://github.com/Kousalya22008930/19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading/assets/119389108/c7086dd3-7268-44f3-9fb1-037a969005a4)
+![image](https://github.com/Kousalya22008930/19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading/assets/119389108/ce432145-44d6-4abc-b4cd-db9245d2b9cb)
 
 # RESULT:
 Thus, a C# program to find the volume of a box using operator overloading is implemented successfully.
